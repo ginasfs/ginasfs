@@ -1,4 +1,4 @@
 hi i'm jeremy ♡ 
-<p>if youre here from PT, check my <a href="https://rentry.co/55komaeda">rentry.</a>
+<p>if youre here from pt, check my <a href="https://ginasfs.neocities.org/">website!</a>
 
-![](https://komarev.com/ghpvc/?username=jeremyfitz&color=ff69b4&label=Profile+Clicks&style=plastic)
+![](https://komarev.com/ghpvc/?username=ginasfs&color=ff69b4&label=Profile+Clicks&style=plastic)
